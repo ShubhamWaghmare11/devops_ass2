@@ -7,8 +7,3 @@ terraform/
 *.tfstate.backup
 .terraform.lock.hcl
 
-# Python / FastAPI / ML
-__pycache__/
-*.pyc
-*.pkl
-*.log

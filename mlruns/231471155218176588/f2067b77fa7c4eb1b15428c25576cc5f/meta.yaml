@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/DevOPS%20Ass2/mlruns/231471155218176588/f2067b77fa7c4eb1b15428c25576cc5f/artifacts
+end_time: 1759072769188
+entry_point_name: ''
+experiment_id: '231471155218176588'
+lifecycle_stage: active
+run_id: f2067b77fa7c4eb1b15428c25576cc5f
+run_name: receptive-hen-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759072760488
+status: 3
+tags: []
+user_id: Shubham

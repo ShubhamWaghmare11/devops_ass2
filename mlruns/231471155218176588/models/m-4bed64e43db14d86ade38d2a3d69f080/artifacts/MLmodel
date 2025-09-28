@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Shubham/Desktop/DevOPS%20Ass2/mlruns/231471155218176588/models/m-4bed64e43db14d86ade38d2a3d69f080/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-4bed64e43db14d86ade38d2a3d69f080
+model_size_bytes: 633
+model_uuid: m-4bed64e43db14d86ade38d2a3d69f080
+prompts: null
+run_id: 2b3eab6505264d8eaefdd0968a888efc
+utc_time_created: '2025-09-28 15:10:42.972819'

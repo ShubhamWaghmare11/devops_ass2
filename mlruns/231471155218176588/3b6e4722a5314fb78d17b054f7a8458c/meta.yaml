@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/DevOPS%20Ass2/mlruns/231471155218176588/3b6e4722a5314fb78d17b054f7a8458c/artifacts
+end_time: 1759073028333
+entry_point_name: ''
+experiment_id: '231471155218176588'
+lifecycle_stage: active
+run_id: 3b6e4722a5314fb78d17b054f7a8458c
+run_name: polite-yak-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759073021699
+status: 3
+tags: []
+user_id: Shubham

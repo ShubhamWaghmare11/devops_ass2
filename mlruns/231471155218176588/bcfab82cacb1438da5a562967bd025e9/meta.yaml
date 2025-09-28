@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/DevOPS%20Ass2/mlruns/231471155218176588/bcfab82cacb1438da5a562967bd025e9/artifacts
+end_time: 1759072509444
+entry_point_name: ''
+experiment_id: '231471155218176588'
+lifecycle_stage: active
+run_id: bcfab82cacb1438da5a562967bd025e9
+run_name: learned-calf-673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759072502504
+status: 3
+tags: []
+user_id: Shubham

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Shubham/Desktop/DevOPS%20Ass2/mlruns/231471155218176588/2b3eab6505264d8eaefdd0968a888efc/artifacts
+end_time: 1759072250585
+entry_point_name: ''
+experiment_id: '231471155218176588'
+lifecycle_stage: active
+run_id: 2b3eab6505264d8eaefdd0968a888efc
+run_name: caring-hound-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759072242836
+status: 3
+tags: []
+user_id: Shubham

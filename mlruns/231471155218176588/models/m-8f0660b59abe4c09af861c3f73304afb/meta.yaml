@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Shubham/Desktop/DevOPS%20Ass2/mlruns/231471155218176588/models/m-8f0660b59abe4c09af861c3f73304afb/artifacts
+creation_timestamp: 1759072506590
+experiment_id: '231471155218176588'
+last_updated_timestamp: 1759072509432
+model_id: m-8f0660b59abe4c09af861c3f73304afb
+model_type: null
+name: linear_regression_model
+source_run_id: bcfab82cacb1438da5a562967bd025e9
+status: 2
+status_message: null

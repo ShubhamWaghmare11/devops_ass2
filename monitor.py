@@ -2,6 +2,10 @@ import time
 import smtplib
 from email.message import EmailMessage
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # ---------------- CONFIGURATION ----------------
 LOG_FILE = "predictions.log"         # File where FastAPI logs predictions/errors
 ERROR_THRESHOLD = 1                  # Number of errors to trigger alert

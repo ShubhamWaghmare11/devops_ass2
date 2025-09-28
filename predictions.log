@@ -1,0 +1,4 @@
+2025-09-28 23:28:26,265 INFO:Input: {'sqft': 1500, 'bedrooms': 3, 'bathrooms': 2, 'age': 10, 'distance': 5.2}, Prediction: 245415.70514643012
+2025-09-28 23:28:29,671 ERROR:Exception occurred: Intentional random error for testing logs, Input: {'sqft': 1500, 'bedrooms': 3, 'bathrooms': 2, 'age': 10, 'distance': 5.2}
+2025-09-28 23:28:31,029 INFO:Input: {'sqft': 1500, 'bedrooms': 3, 'bathrooms': 2, 'age': 10, 'distance': 5.2}, Prediction: 245415.70514643012
+2025-09-28 23:28:32,142 ERROR:Exception occurred: Intentional random error for testing logs, Input: {'sqft': 1500, 'bedrooms': 3, 'bathrooms': 2, 'age': 10, 'distance': 5.2}
